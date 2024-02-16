@@ -18,5 +18,4 @@
 
 ---
 
-Do not hesitate to contact me! 😁 <br>
 <a href="https://www.linkedin.com/in/simonsuska"> ![LinkedIn Badge](https://img.shields.io/badge/simonsuska-0077B5?style=flat-square&logo=linkedin&logoColor=white) </a>
