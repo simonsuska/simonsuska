@@ -2,7 +2,6 @@
 <img src="Hi.svg" alt="Hi and welcome, I'm Simon.">
 
 <!-- About me -->
-<br>
 <div align="center">
   <h1>&raquo; About me &laquo;</h1>
 </div>
@@ -33,7 +32,6 @@ let me = Student(
 ```
 
 <!-- Languages and Tools -->
-<br>
 <div align="center">
   <h1>&raquo; Languages and Tools &laquo;</h1>
   <!-- Swift --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> </span>
@@ -45,7 +43,6 @@ let me = Student(
 </div>
 
 <!-- Contact -->
-<br>
 <div align="center">
   <h1>&raquo; Contact &laquo;</h1>
   
