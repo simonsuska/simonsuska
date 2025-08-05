@@ -1,21 +1,60 @@
-> ✨<i>Good design is as little design as possible.</i> &mdash; Dieter Rams
+<!-- Header Image -->
+<img src="Hi.svg" alt="Hi and welcome, I'm Simon.">
 
-<h1 align="center"> Hi and welcome 🥳, I am Simon </h1> 
+<!-- About me -->
+<br>
+<div align="center">
+  <h1>&raquo; About me &laquo;</h1>
+</div>
 
-<div align="center" style="text-align: center;">
-  I am a passionate mobile developer and very enthusiastic about interface and software design.
-  <br><br>
+```swift
+// swift-tools-version: 5.6
+import MyDescription
 
-  <!-- <a href="https://www.linkedin.com/in/simon-suska-9089492b4/"> ![Static Badge](https://img.shields.io/badge/simonsuska-0077B5?style=flat&logo=linkedin&logoColor=white) </a> -->
+let me = Student(
+    name: "Simon",
+    defaultLocalization: "de-DE",
+    targets: [
+        .target(
+            name: "Cybersecurity",
+            resources: [
+                .process("CTF"),
+                .process("Cryptography")
+            ]
+        ),
+        .target(
+            name: "Mobile Development",
+            resources: [
+                .process("Cross-Platform and Native")
+            ]
+        )
+    ]
+)
+```
 
+<!-- Languages and Tools -->
+<br>
+<div align="center">
+  <h1>&raquo; Languages and Tools &laquo;</h1>
   <!-- Swift --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> </span>
   <!-- Flutter --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </span>
   <!-- Dart --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> </span>
   <!-- Java --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </span>
-  <!-- Kotlin --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> </span>
-  <!-- Jetpack Compose --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="40" height="40"/> </span>
-</div> 
+  <!-- Bash --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </span>
+  <!-- Git --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </span>
+</div>
 
----
+<!-- Contact -->
+<br>
+<div align="center">
+  <h1>&raquo; Contact &laquo;</h1>
+  
+  <a href="https://www.linkedin.com/in/simonsuska"> ![LinkedIn Badge](https://img.shields.io/badge/simonsuska-0077B5?style=flat-square&logo=linkedin&logoColor=white) </a>
+</div>
 
-<a href="https://www.linkedin.com/in/simonsuska"> ![LinkedIn Badge](https://img.shields.io/badge/simonsuska-0077B5?style=flat-square&logo=linkedin&logoColor=white) </a>
+<!-- 
+Thanks to Olga Thelavart on Unsplash for the wall background.
+Visit:
+  - https://unsplash.com/de/@olga_o
+  - https://unsplash.com/de/fotos/weiss-gestrichene-wand-mit-schwarzer-linie-vS3idIiYxX0
+-->
