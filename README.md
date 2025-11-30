@@ -31,9 +31,9 @@ let me = Student(
 )
 ```
 
-<!-- Languages and Tools -->
+<!-- Coding and Tools -->
 <div align="center">
-  <h1>&raquo; Languages and Tools &laquo;</h1>
+  <h1>&raquo; Coding and Tools &laquo;</h1>
   <!-- Swift --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> </span>
   <!-- Flutter --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </span>
   <!-- Dart --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> </span>
