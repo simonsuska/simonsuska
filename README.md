@@ -1,34 +1,23 @@
 <!-- Header Image -->
-<img src="Hi.svg" alt="Hi and welcome, I'm Simon.">
+<img src="hi.svg" alt="Hi and welcome, I'm Simon.">
 
 <!-- About me -->
 <div align="center">
   <h1>&raquo; About me &laquo;</h1>
 </div>
 
-```swift
-// swift-tools-version: 5.6
-import MyDescription
-
-let me = Student(
-    name: "Simon",
-    defaultLocalization: "de-DE",
-    targets: [
-        .target(
-            name: "Cybersecurity",
-            resources: [
-                .process("CTF"),
-                .process("Cryptography")
-            ]
-        ),
-        .target(
-            name: "Mobile Development",
-            resources: [
-                .process("Cross-Platform and Native")
-            ]
-        )
-    ]
-)
+```bash
+simon@laptop:~$ ./profile
+name: "Simon"
+locale: "de-DE"
+target: "Blue Teaming"
+details: "Protect systems from dark forces"
+Add more targets (Y/n)? Y
+target: "Red Teaming"
+details: "Crack CTFs and Cyber-Wargames"
+Add more targets (Y/n)? n
+Profile written successfully.
+simon@laptop:~$ ▌
 ```
 
 <!-- Coding and Tools -->
@@ -37,7 +26,8 @@ let me = Student(
   <!-- Swift --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> </span>
   <!-- Flutter --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </span>
   <!-- Dart --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> </span>
-  <!-- Java --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </span>
+  <!-- Go --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </span>
+  <!-- Linux --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </span>
   <!-- Bash --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </span>
   <!-- Git --> <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </span>
 </div>
