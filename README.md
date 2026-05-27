@@ -1,5 +1,5 @@
 <!-- Header Image -->
-<img src="hi.svg" alt="Hi and welcome, I'm Simon.">
+<img src="hey.svg" alt="Hi and welcome, I'm Simon.">
 
 <!-- About me -->
 <div align="center">
